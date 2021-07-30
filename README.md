@@ -16,7 +16,7 @@ HTML, CSS Transitions, JavaScript, Flexbox
 This is a simple image gallery page in which the user can trigger the image panels on the screen to open with the click of their mouse. When the user clicks a panel, it expands and a word appears from the top and another from the bottom of the panel. When they click the same panel, it reverts back to the starting position.
 
 <!-- Screenshot -->
-<img src="https://giphy.com/gifs/fA4DxROmb93Aksujyg">
+<img src="https://giphy.com/embed/fA4DxROmb93Aksujyg">
 
 <!-- License -->
 
