@@ -19,6 +19,7 @@ body {
 .panels {
 	min-height: 100vh;
 	overflow: hidden;
+	display: flex;
 }
 
 .panel {
@@ -30,6 +31,8 @@ body {
 	font-size: 20px;
 	background-size: cover;
 	background-position: center;
+	/* Evenly distributing extra space between panels */
+	flex: 1;
 }
 
 .panel1 {
